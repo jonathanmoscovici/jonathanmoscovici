@@ -1,4 +1,6 @@
 library(blogdown)
+install.packages("devtools")
+library(devtools)
 setwd("H:/Programming/blogdown/jonathanmoscovici/jonathanmoscovici/jonathanmoscovici")
 #blogdown::new_site(theme="gcushen/hugo-academic", theme_example=TRUE)
 
