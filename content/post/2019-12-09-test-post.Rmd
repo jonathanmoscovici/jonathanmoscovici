@@ -1,5 +1,5 @@
 ---
-title: Test post 2!
+title: Test post 4!
 author: Jonathan
 date: '2019-12-09'
 slug: test-post
@@ -8,4 +8,4 @@ categories:
 tags: []
 ---
 
-Just a test post. test2 
+Just a test post. test4 
