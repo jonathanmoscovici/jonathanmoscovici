@@ -17,3 +17,7 @@ blogdown::new_site(dir="Theme")
 
 #make sure hudo version on PC matches version on Netlify
 blogdown::hugo_version()
+
+
+#new post
+
