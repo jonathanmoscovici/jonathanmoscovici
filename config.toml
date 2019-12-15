@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://musing-brattain-4d73b7.netlify.com/"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium"
